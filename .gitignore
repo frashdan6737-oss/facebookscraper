@@ -1,0 +1,14 @@
+# Ignore Playwright persistent session data
+fb_marketplace_profile/
+
+# Ignore scraped output files
+marketplace_hrefs.json
+marketplace_results.json
+marketplace_chat_numbers.json
+
+# Ignore error screenshots
+*.png
+
+# Ignore Python cache
+__pycache__/
+*.pyc
